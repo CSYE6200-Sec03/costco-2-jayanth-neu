@@ -5,7 +5,7 @@ public class ItemFactory {
 	public ItemAPI GetObjectItemAPI(String[] itemSplit) {
 		return new ItemAPI((int)ConvertUtility.returnInt(itemSplit[0])
 							, ConvertUtility.returnDouble(itemSplit[1]) 
-							,	itemSplit[2]
+							, itemSplit[2]
 							, itemSplit[3]); 
 		
 	}
@@ -25,7 +25,5 @@ public class ItemFactory {
 			return ServiceFactory.getInstance().GetObjectItemAPI(itemSplit);
 		}
 		return null;				
-	}
-	
-	
+	}	
 }

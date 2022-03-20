@@ -36,6 +36,4 @@ public class Service extends ItemAPI{
 		return super.toString() + ", startTime=" + getStartTime() + ", endTime=" + getEndTime() + ", timeUnits="
 				+ getTimeUnits();
 	}
-	
-	
 }

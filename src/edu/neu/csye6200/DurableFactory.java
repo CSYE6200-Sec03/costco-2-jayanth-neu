@@ -23,7 +23,5 @@ public class DurableFactory extends ItemFactory{
 					, ConvertUtility.returnDouble(itemSplit[4])
 					, itemSplit[5]); 
 			return item;
-	   } 
-	   
-	   
+	   }   
 }

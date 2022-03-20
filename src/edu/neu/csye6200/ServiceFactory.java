@@ -19,6 +19,5 @@ public class ServiceFactory extends ItemFactory{
 				, itemSplit[5]
 				, itemSplit[6]); 
 		return item;
-		
 	}
 }

@@ -55,7 +55,4 @@ public class ItemAPI implements Comparable<ItemAPI>{
 		// TODO Auto-generated method stub
 		return Integer.compare(this.getId(), o.getId());
 	}
-	
-	
-	
 }

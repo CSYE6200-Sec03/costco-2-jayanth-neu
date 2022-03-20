@@ -126,6 +126,5 @@ public class Midterm {
 		//immutable data
 		Costco c1 = new Costco();
 		System.out.println(c1.getImmutableVariable()); //we can't change value of final variable, we can only read them
-		
 	}
 }

@@ -97,6 +97,4 @@ public class Costco extends StoreAPI{
 	public void staticPolyDemo(int a) {
 		System.out.println("In staticPolyDemo-2");
 	}
-	
-
 }

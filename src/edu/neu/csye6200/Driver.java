@@ -6,7 +6,6 @@ public class Driver {
 		// TODO Auto-generated method stub
 		Midterm.demo();
 	}
-
 }
 
 /*
