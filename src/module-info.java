@@ -1,0 +1,2 @@
+module costco2 {
+}
