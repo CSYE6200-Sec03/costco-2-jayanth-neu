@@ -1,4 +1,4 @@
-# costco-2-jayanth-neu
+# costco-2
 costco-2-jayanth-neu created by GitHub Classroom
 
 package org.dgp;
